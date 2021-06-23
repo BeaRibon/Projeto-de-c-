@@ -1,0 +1,59 @@
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\projeto banco de dados.exe.config
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\projeto banco de dados.exe
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\projeto banco de dados.pdb
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\MySql.Data.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\Google.Protobuf.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\Zstandard.Net.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\Renci.SshNet.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\System.Memory.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\System.Buffers.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\bin\Debug\MySql.Data.xml
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.csprojAssemblyReference.cache
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.exe.config
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto_banco_de_dados.Login.resources
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto_banco_de_dados.Properties.Resources.resources
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.csproj.GenerateResource.cache
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.csproj.CoreCompileInputs.cache
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.csproj.CopyComplete
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.exe
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.pdb
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto_banco_de_dados.cadastrologin.resources
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto_banco_de_dados.principal.resources
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto_banco_de_dados.funcionarios.resources
+C:\Users\Richard pc\source\repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto_banco_de_dados.fornecedores.resources
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\projeto banco de dados.exe.config
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\projeto banco de dados.exe
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\projeto banco de dados.pdb
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\Google.Protobuf.dll
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\Zstandard.Net.dll
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\Renci.SshNet.dll
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\System.Memory.dll
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\System.Buffers.dll
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\bin\Debug\MySql.Data.xml
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.csproj.AssemblyReference.cache
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.exe.config
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto_banco_de_dados.cadastrologin.resources
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto_banco_de_dados.Login.resources
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto_banco_de_dados.fornecedores.resources
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto_banco_de_dados.funcionarios.resources
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto_banco_de_dados.principal.resources
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto_banco_de_dados.Properties.Resources.resources
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.csproj.GenerateResource.cache
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.csproj.CoreCompileInputs.cache
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.csproj.CopyComplete
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.exe
+C:\Users\beatr\Source\Repos\projeto banco de dados\projeto banco de dados\obj\Debug\projeto banco de dados.pdb
